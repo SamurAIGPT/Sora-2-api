@@ -1,6 +1,8 @@
 # Sora 2 api
 Sora 2 api access using http://muapi.ai
 
+Medium article https://medium.com/@anilmatcha/openai-sora-2-api-text-to-video-generation-with-audio-exclusive-on-muapi-ai-3223d3623c1d
+
 <img width="1536" height="1024" alt="s2api" src="https://github.com/user-attachments/assets/91432155-4152-4a43-b9f4-6824b2184e5b" />
 
 ```
