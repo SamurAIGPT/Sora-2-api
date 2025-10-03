@@ -1,5 +1,6 @@
 # Sora 2 api
 Sora 2 api access using http://muapi.ai
+
 <img width="1536" height="1024" alt="s2api" src="https://github.com/user-attachments/assets/91432155-4152-4a43-b9f4-6824b2184e5b" />
 
 ```
